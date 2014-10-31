@@ -1,0 +1,5 @@
+(protesta OR protestan OR protest) AND (march OR marcha) => True
+([FOREIGN] AND (NOT (embassy OR embajadas OR embajada))) => False
+([JAJA]) => False
+(([MISSEDFT_G2] > 0.9) AND ([MISSEDFT_G3] == 1.0)) => False
+([EMOJI]) => False
